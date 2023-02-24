@@ -19,7 +19,7 @@ Input files are *.in files, the packets in each file are sorted according to the
 The purpose of this project was to showcase a proper use of memory allocation and the use of files,
 working with structs, constructing a BST and managing it, also a proper work with pointers in functions.
 
-![start](https://user-images.githubusercontent.com/102590409/221225517-04a925e7-3466-49a7-b16c-7bf905e5ead2.jpg
+![start](https://user-images.githubusercontent.com/102590409/221225517-04a925e7-3466-49a7-b16c-7bf905e5ead2.jpg)
 ![end](https://user-images.githubusercontent.com/102590409/221225589-6a79c551-716b-4ca5-8e96-3bca94e559b4.jpg)
 ![switch packet](https://user-images.githubusercontent.com/102590409/221225609-056ad04d-3772-4777-b5a2-260203e88a99.jpg)
 ![XOR](https://user-images.githubusercontent.com/102590409/221225636-adc4e0e8-1744-4089-8704-3e9ffd796a5b.jpg)
