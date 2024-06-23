@@ -1,4 +1,4 @@
-# Switch---C-Project
+# Switch simulator---C-Project
 Final project in Advanced C course. A realization of a 4-port double-sided switch.
 Each port has information packets coming in with its info and destination ports and are supposed to be sent there.
 Each out port has two queues, one for each packet priority.
